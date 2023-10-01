@@ -10,7 +10,7 @@ Eu sou um grande amante da Informática e, por causa disso, fiz o Curso Técnico
 
 ![](/assets/img/sobreimagem1.jpg)
 
-Depois do ensino médio, passei alguns anos estudando para passar em Medicina, que sempre foi o meu sonho, e consegui realizar ele em 2020, mas veio a pandemia e bagunçou tudo de novo. Essa foto aqui é uma de um dos meus primeiros dias como “médico” atendendo os pacientes.
+Depois do ensino médio, fiquei alguns anos estudando para passar em Medicina, que sempre foi o meu sonho, e consegui realizar ele em 2020, mas veio a pandemia e bagunçou tudo de novo. Essa foto aqui é uma de um dos meus primeiros dias como “médico” atendendo os pacientes.
 
 ![](/assets/img/sobreimagem2.jpg)
 
