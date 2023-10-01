@@ -1,0 +1,128 @@
+/* Configurações do navegador */
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+  input::-webkit-outer-spin-button,
+  input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+
+  input[type=number] {
+    -moz-appearance: textfield;
+  }
+
+.b-example-divider {
+  height: 3rem;
+  background-color: rgba(0, 0, 0, .1);
+  border: solid rgba(0, 0, 0, .15);
+  border-width: 1px 0;
+  box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+}
+
+@media (min-width: 992px) {
+  .rounded-lg-3 { border-radius: .3rem; }
+}
+
+/* Estilização das barras de navegação superiores e inferiores */
+.navbar, .bottombar {
+  overflow: hidden;
+  background-color: #212529;
+  width: 100%;
+}
+
+/* Posição da barra superior */
+.navbar{
+  top: 0;
+  position: fixed;
+}
+
+/* Posição da barra inferior */
+.bottombar{
+  bottom: 0;
+}
+
+/* Tag <a> das barras de navegação */
+.navbar a, .bottombar a {
+  border-radius: 5px;
+  margin-left: 10px;
+  float: right;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 10px 10px;
+  text-decoration: none;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+/* Botão ativo da barra inferior */
+.bottombar a.active{
+  float: left;
+  margin-left: 10px;
+}
+
+/* Botão ativo da barra superior */
+.navbar a.active {
+  float: left;
+  background-color: #0d6efd;
+  color: white;
+}
+.navbar a.active:hover {
+  background-color: #0b5ed7;
+}
+
+/* Modal */
+.modal {
+  text-align: justify;
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0,0.4);
+}
+
+/* Conteúdo do modal */
+.modal-content {
+  background-color: #fefefe;
+  margin: 15% auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+}
+
+/* Botão para fechar o modal */
+.close {
+  margin-top: -10px;
+  color: black;
+  text-decoration: none;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+/* Texto do topo do modal */
+.modalHead{
+  float: left;
+}
+
+/* Todos os parágrafos da página */
+p {
+  text-align: justify
+}

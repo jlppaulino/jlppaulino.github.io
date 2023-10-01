@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+  <!-- Configurações do arquivo -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Título da página -->
+  <title>UERN Calc</title>
+
+  <!-- Importação de arquivos externos -->
+  <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/heroes/">
+  <link rel="icon" href="assets/icons/favicon.svg">
+  <link href="assets/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="heroes.css" rel="stylesheet">
+</head>
+
+<body>
+  <!-- Corpo principal do programa -->
+  <div class="container col-xl-10 col-xxl-8 px-4 py-5">
+    <div class="row align-items-center g-5 py-5">
+      <div class="col-lg-7 text-center text-lg-start">
+        <h1 class="display-4 fw-bold lh-1 mb-3">UERN Calc</h1>
+        <p class="col-lg-10 fs-4">Bem-vindo ao UERN Calc, o aplicativo que vai te ajudar a saber quanto precisa tirar para passar <b>naquela</b> disciplina.</p>
+      </div>
+      <div class="col-10 mx-auto col-lg-5">
+        <form class="p-5 border rounded-3 bg-light">
+          <div class="form-floating mb-3">
+            <input type="number" class="form-control" id="score1" placeholder="0">
+            <label for="floatingInput">Primeira unidade</label>
+          </div>
+          <div class="form-floating mb-3">
+            <input type="number" class="form-control" id="score2" placeholder="0">
+            <label for="floatingInput">Segunda unidade</label>
+          </div>
+          <div class="form-floating mb-3">
+            <input type="number" class="form-control" id="score3" placeholder="0">
+            <label for="floatingInput">Terceira unidade</label>
+          </div>
+          <div class="my-3">
+            <div class="form-check">
+              <input id="credit2" name="paymentMethod" type="radio" class="form-check-input" onclick="hidescore()" required>
+              <label class="form-check-label">Dois créditos</label>
+            </div>
+            <div class="form-check">
+              <input id="credit3" name="paymentMethod" type="radio" class="form-check-input" onclick="hidescore()" checked required>
+              <label class="form-check-label">Três créditos</label>
+            </div>
+          </div>
+          <button class="w-100 btn btn-lg btn-primary" type="button" onclick="calc()">Calcular</button>
+          <hr class="my-4">
+          <p class="text" id="result">Sua situação será exibida aqui.</p>
+        </form>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Barra de navegação superior -->
+  <div class="navbar">
+    <a class="active" onclick="openModal()">Ajuda</a>
+    <a href="https://joalllucas.github.io/" target="_blank">Desenvolvido por Joao Lucas</a>
+  </div>
+  
+  <!-- Modal de ajuda -->
+  <div id="helpModal" class="modal">
+    <div class="modal-content">
+      <span>
+        <h3 class="modalHead">Ajuda</h3>
+        <a class="close" onclick="closeModal()">&times;</a>
+      </span>
+      <h6>Formato de números</h6>
+      <p>O programa usa notas no intervalo de 0 a 10. Por isso, separe as casas decimais com ponto ou vírgula. Números fora desse intervalo impossibilitarão o cálculo.</p>
+      <h6>Trocar tipo de disciplina</h6>
+      <p>Por padrão, o programa seleciona o cálculo para disciplinas de três créditos. Caso o aluno queira mudar a quantidade de créditos, basta selecionar a opção acima do botão de cálculo.</p>
+      <h6>Modos de uso</h6>
+      <p>O programa pode ser usado tanto para ver quanto será necessário tirar na próxima avaliação para ficar na média como quanto será necessário ser obtido na avaliação final. Por isso, se o aluno digitar todas as notas, será calculado a média final e a situação do aluno. Caso ele esteja na prova final, será mostrada a nota necessária para passar. Caso o aluno não digite a última nota, o programa irá apresentar quanto será necessário para que o aluno passe por média sem ir para a prova final.</p>
+      <h6>Cálculo das notas</h6>
+      <p>Todos os cálculos do programa levam em consideração o regimento geral da UERN. Por isso, a média adotada para as avaliações normais é 7 e a prova final considera como aprovado alunos que tenham obtido média acima de 6.</p>
+      <a href="https://github.com/joalllucas/joalllucas.github.io/tree/master/uerncalc" target="_blank" style="text-decoration:none; color:black"><font size="-1">Versão 1.0, Agosto de 2022</font></a>
+      </span>
+    </div>
+  </div> 
+</body>
+
+<!-- Importação de arquivos externos -->
+<script src="assets/dist/js/bootstrap.bundle.min.js"></script>
+<script src="heroes.js"></script>
+
+</html>
