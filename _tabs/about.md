@@ -19,5 +19,10 @@ Falando em foto, eu, durante um bom tempo, fui um quase fotógrafo amador e essa
 
 ![](/assets/img/sobreimagem3.jpg)
 
-Além da Informática, Medicina e pesquisa científica, outros grandes amores meus são os jogos e a música. Por causa disso, vocês podem sempre me ver jogando alguma coisa no [Steam](https://steamcommunity.com/id/joalllucas/){:target="_blank"} ou ouvindo excelentes músicas no [Spotify](https://open.spotify.com/user/joalllucas){:target="_blank"}.
+Ainda na onda da fotografia, mas mais voltado para imagem em si, também gosto de dar uma de designer às vezes e, por causa disso, criei essa logo pra mim. A explicação dela eu deixo com a imaginação de vocês, mas adianto que não é algo muito difícil de perceber.
+
+![](/assets/img/sobreimagem4.svg)
+
+Além do que eu já citei, outros grandes amores meus são os jogos e a música. Por causa disso, vocês podem sempre me ver jogando alguma coisa no [Steam](https://steamcommunity.com/id/joalllucas/){:target="_blank"} ou ouvindo excelentes músicas no [Spotify](https://open.spotify.com/user/joalllucas){:target="_blank"}.
 Se precisar de alguma coisa ou quiser bater um papo comigo, pode se sentir à vontade para entrar em contato pelas redes sociais. Os links para elas estão ao lado também. 😉
+
