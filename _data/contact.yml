@@ -3,9 +3,6 @@
 - type: github
   icon: "fab fa-github"
 
-#- type: twitter
-#  icon: "fa-brands fa-x-twitter"
-
 - type: externallinks
   icon: "fas fa-link"
   url:  'https://linktr.ee/jlppaulino'
@@ -14,15 +11,18 @@
   icon: "fas fa-calculator"
   url:  'https://joalllucas.github.io/uerncalc'
 
-# - type: email
-#   icon: "fas fa-envelope"
-#   noblank: true # open link in current tab
-
 - type: rss
   icon: "fas fa-rss"
   noblank: false
 
 # Uncomment and complete the url below to enable more contact options
+#
+# - type: email
+#   icon: "fas fa-envelope"
+#   noblank: true # open link in current tab
+#
+# - type: twitter
+#   icon: "fa-brands fa-x-twitter"
 #
 # - type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
