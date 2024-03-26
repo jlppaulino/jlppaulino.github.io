@@ -90,7 +90,7 @@ O portal da [LAMNVI](https://lamnviuern.wordpress.com/){:target="_blank"} foi id
 ## Portal do BIOMOL
 _PROJETO DE TECNOLOGIA DA INFORMAÇÃO | 2024_
 
-O Portal do [BioMol](https://biomoluern.com.br/){:target="_blank"} tem um objetivo muito parecido com o da LAMNVI mencionado anteriormente, mas, para além disso, ele conta com um sistema de agendamento no qual a comunidade acadêmica pode solicitar o uso dos equipamentos do laboratório por meio da plataforma online.
+O portal do [BioMol](https://biomoluern.com.br/){:target="_blank"} tem um objetivo muito parecido com o da LAMNVI mencionado anteriormente, mas, para além disso, ele conta com um sistema de agendamento no qual a comunidade acadêmica pode solicitar o uso dos equipamentos do laboratório por meio da plataforma online.
 
 ## Aspectos clínicos, ultrassonográficos e histopatológicos das lesões de pele dos pacientes atendidos pelo ambulatório da FACS/UERN
 _PIBIC UERN/CNPQ | 2023 A 2024_
