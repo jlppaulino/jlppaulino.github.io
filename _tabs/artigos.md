@@ -1,7 +1,7 @@
 ---
 icon: fas fa-feather
 order: 4
-title:  "Artigos"
+title:  "ARTIGOS"
 toc: true
 ---
 
@@ -49,18 +49,18 @@ Uma pequena lista com as principais produções acadêmicas, incluindo artigos, 
 
 # Participação oral em eventos
 
-- Pesquisa e publicação na IFMSA Brazil UERN. 2021. I Semana de Acolhimento Científico
+- Pesquisa e publicação na IFMSA Brazil UERN. 2021. <u>I Semana de Acolhimento Científico</u>
 
-- Importância da realização do teste do olhinho em crianças. 2023. Viva UERN - 50 anos da PROEX
+- Importância da realização do teste do olhinho em crianças. 2023. <u>Viva UERN - 50 anos da PROEX</u>
 
-- Divulgação do ambulatório do teste do olhinho da FACS/UERN. 2023. UERN no Parque
+- Divulgação do ambulatório do teste do olhinho da FACS/UERN. 2023. <u>UERN no Parque</u>
 
-- A importâncias do filtro UV em óculos de sol. 2023. Viva UERN Rio Branco - 1º edição de 2023
+- A importâncias do filtro UV em óculos de sol. 2023. <u>Viva UERN Rio Branco - 1º edição de 2023</u>
 
-- Impacto da luz azul dos dispositivos eletrônicos na saúde ocular das crianças. 2023. ELO UERN 2023.
+- Impacto da luz azul dos dispositivos eletrônicos na saúde ocular das crianças. 2023. <u>ELO UERN 2023.</u>
 
-- ISTs, métodos contraceptivos e gravidez na adolescência. 2023. ELO UERN 2023.
+- ISTs, métodos contraceptivos e gravidez na adolescência. 2023. <u>ELO UERN 2023.</u>
 
-- LAMNVI na Rio Branco: quais são os impactos da hipertensão e da diabete na sua visão?. 2023. Viva UERN Rio Branco - 2º edição de 2023
+- LAMNVI na Rio Branco: quais são os impactos da hipertensão e da diabete na sua visão?. 2023. <u>Viva UERN Rio Branco - 2º edição de 2023</u>
 
 - Apresentação da LAMNVI. 2023. <u>I Encontro Mossoroense de Ligas Acadêmicas</u>
