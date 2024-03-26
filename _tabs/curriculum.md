@@ -87,7 +87,7 @@ _PROJETO DE TECNOLOGIA DA INFORMAÇÃO | 2023_
 
 O portal da [LAMNVI](https://lamnviuern.wordpress.com/){:target="_blank"} foi idealizado para que as ações da liga acadêmica pudessem ter uma melhor apresentação para o público, facilitando o acesso a documentos importantes, equipe e contato da liga com a comunidade acadêmica. Além disso, espera-se que o site sirva para que os ligantes publiquem artigos sobre temas relacionados à oftalmologia.
 
-## Portal do BIOMOL
+## Portal do BioMol
 _PROJETO DE TECNOLOGIA DA INFORMAÇÃO | 2024_
 
 O portal do [BioMol](https://biomoluern.com.br/){:target="_blank"} tem um objetivo muito parecido com o da LAMNVI mencionado anteriormente, mas, para além disso, ele conta com um sistema de agendamento no qual a comunidade acadêmica pode solicitar o uso dos equipamentos do laboratório por meio da plataforma online.
