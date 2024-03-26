@@ -41,7 +41,7 @@ Uma pequena lista com as principais produções acadêmicas, incluindo artigos, 
 
 - Avaliação do ensino remoto implantado no curso de Medicina da FACS/UERN durante a pandemia de COVID-19. 2022. [X Semana de Ciência, Tecnologia e Inovação da Universidade do Estado do Rio Grande do Norte](https://portal.uern.br/propeg/pibic-pibiti-e-pibic-em/semana-de-ciencia-tecnologia-e-inovacao-scti/){:target="_blank"}
 
-- Incidência do Câncer de Pênis nas Regiões Norte e Nordeste entre 2006 e 2022: um Estudo Ecológico. 2023. [XI Semana de Ciência, Tecnologia e Inovação da Universidade do Estado do Rio Grande do Norte](https://portal.uern.br/propeg/pibic-pibiti-e-pibic-em/semana-de-ciencia-tecnologia-e-inovacao-scti/){:target="_blank"}
+- Incidência do câncer de pênis nas regiões Norte e Nordeste entre 2006 e 2022: um estudo ecológico. 2023. [XI Semana de Ciência, Tecnologia e Inovação da Universidade do Estado do Rio Grande do Norte](https://portal.uern.br/propeg/pibic-pibiti-e-pibic-em/semana-de-ciencia-tecnologia-e-inovacao-scti/){:target="_blank"}
 
 # Outros
 
