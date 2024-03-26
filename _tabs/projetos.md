@@ -1,6 +1,6 @@
 ---
 icon: fas fa-lightbulb
-order: 4
+order: 5
 title:  "PROJETOS"
 
 ---
