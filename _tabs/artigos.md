@@ -33,9 +33,9 @@ Uma pequena lista com as principais produções acadêmicas, incluindo artigos, 
 
 - O impacto social da realização do teste do olhinho no ambulatório de oftalmologia: um relato de experiência da extensão universitária. 2023. [Anais do 61º Congresso Brasileiro de Educação Médica](https://website.abem-educmed.org.br/wp-content/uploads/2024/01/Anais-61-COBEM-1.pdf){:target="_blank"}
 
-- Rodas de conversa como espaços de educação em saúde para pessoas que vivem com Doença de Chagas. 2023. [25º Congresso Brasileiro dos Conselhos de Enfermagem](https://inscricoes-cbcenf.cofen.gov.br/anais/21/show){:target="_blank"}
+- Rodas de conversa como espaços de educação em saúde para pessoas que vivem com Doença de Chagas. 2023. [Anais do 25º Congresso Brasileiro dos Conselhos de Enfermagem](https://inscricoes-cbcenf.cofen.gov.br/anais/21/show){:target="_blank"}
 
-# Apresentações orais
+# Apresentações orais em eventos
 
 - Monitoria de Genética Humana em tempos de ensino remoto - Um relato de experiência. 2021. [IX Semana de Ciência, Tecnologia e Inovação da Universidade do Estado do Rio Grande do Norte](https://portal.uern.br/propeg/pibic-pibiti-e-pibic-em/semana-de-ciencia-tecnologia-e-inovacao-scti/){:target="_blank"}
 
@@ -47,7 +47,7 @@ Uma pequena lista com as principais produções acadêmicas, incluindo artigos, 
 
 - COVID-19 and the importance of scientific credibility in decreasing the number of cases. 2021. [The European Sting](https://europeansting.com/2021/05/25/covid-19-and-the-importance-of-scientific-credibility-in-decreasing-the-number-of-cases/){:target="_blank"}
 
-# Participação oral em eventos
+# Participação em eventos
 
 - Pesquisa e publicação na IFMSA Brazil UERN. 2021. <u>I Semana de Acolhimento Científico</u>
 
