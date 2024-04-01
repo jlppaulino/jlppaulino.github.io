@@ -39,7 +39,7 @@ Uma pequena lista com as principais produções acadêmicas, incluindo artigos, 
 
 - Monitoria de Genética Humana em tempos de ensino remoto - Um relato de experiência. 2021. [IX Semana de Ciência, Tecnologia e Inovação da Universidade do Estado do Rio Grande do Norte](https://portal.uern.br/propeg/pibic-pibiti-e-pibic-em/semana-de-ciencia-tecnologia-e-inovacao-scti/){:target="_blank"}
 
-- Avaliação do ensino remoto implantado no curso de Medicina da FACS/UERN durante a pandemia de COVID-19. 2022. [X Semana de Ciência, Tecnologia e Inovação da Universidade do Estado do Rio Grande do Norte](https://portal.uern.br/propeg/pibic-pibiti-e-pibic-em/semana-de-ciencia-tecnologia-e-inovacao-scti/){:target="_blank"}
+- Ensino remoto emergencial no curso de Medicina da UERN frente à pandemia de COVID-19: comparação entre aspectos locais e globais. 2022. [X Semana de Ciência, Tecnologia e Inovação da Universidade do Estado do Rio Grande do Norte](https://portal.uern.br/propeg/pibic-pibiti-e-pibic-em/semana-de-ciencia-tecnologia-e-inovacao-scti/){:target="_blank"}
 
 - Incidência do câncer de pênis nas regiões Norte e Nordeste entre 2006 e 2022: um estudo ecológico. 2023. [XI Semana de Ciência, Tecnologia e Inovação da Universidade do Estado do Rio Grande do Norte](https://portal.uern.br/propeg/pibic-pibiti-e-pibic-em/semana-de-ciencia-tecnologia-e-inovacao-scti/){:target="_blank"}
 
@@ -47,7 +47,7 @@ Uma pequena lista com as principais produções acadêmicas, incluindo artigos, 
 
 - COVID-19 and the importance of scientific credibility in decreasing the number of cases. 2021. [The European Sting](https://europeansting.com/2021/05/25/covid-19-and-the-importance-of-scientific-credibility-in-decreasing-the-number-of-cases/){:target="_blank"}
 
-# Participação em eventos
+# Participações em eventos
 
 - Pesquisa e publicação na IFMSA Brazil UERN. 2021. <u>I Semana de Acolhimento Científico</u>
 
