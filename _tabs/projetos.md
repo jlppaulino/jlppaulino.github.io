@@ -1,11 +1,11 @@
 ---
-icon: fas fa-lightbulb
+icon: fas fa-laptop
 order: 4
 title:  "PROJETOS"
 
 ---
 
-Como vocês já sabem (se tiverem lido a seção "Sobre"), eu não sou mais acadêmico de nada relacionado à Informática, mas eu continuo a amando, então eu separei aqui alguns dos projetos que eu fiz ao longo do curso e depois dele para mostrar a vocês.
+Embora eu não seja mais acadêmico de nada relacionado à Informática, eu continuo a amando, então eu sempre estou fazendo alguns projetos relacionados a ela e separei, aqui, alguns deles para mostrar a vocês.
 
 # Jogo da memória
 `HTML` `CSS` `JavaScript`
@@ -33,3 +33,13 @@ Eu vim conhecer as páginas do GitHub muito tempo depois, acho que por volta de 
 `HTML` `CSS` `JavaScript`
 
 De todos os projetos que eu já fiz, acho que o [UERNCalc](https://joalllucas.github.io/uerncalc){:target="_blank"} é o mais útil, embora ele seja extremamente simples. Todo o código dele foi feito apenas com HTML, CSS e JavaScript, mas o que define a importância de um código não é a sua complexidade, mas a sua utilidade. Por causa disso, eu afirmo que é o mais útil, porque muitos estudantes da UERN usam ele para calcular as suas notas com base no sistema da escola. A primeira versão dele foi lançada em 2022.
+
+# Portal da LAMNVI
+`WordPress`
+
+O portal da [LAMNVI](https://lamnviuern.wordpress.com/){:target="_blank"} foi um projeto voluntário para a liga de oftalmologia da UERN a fim de modernizar suas ações e melhorar a comunicação com a comunidade acadêmica. O WordPress foi escolhido para esse projeto devido à sua facilidade de uso por um público leigo.
+
+# Portal do BioMol
+`WordPress`
+
+O portal do [BioMol](https://biomoluern.com.br/){:target="_blank"}, assim como o da LAMNVI, buscou informatizar as atividades do laboratório e o WordPress foi escolhido como plataforma devido à sua praticidade de uso.

@@ -1,11 +1,11 @@
 ---
 icon: fas fa-feather
 order: 3
-title:  "ARTIGOS"
+title:  "PRODUÇÃO"
 toc: true
 ---
 
-Uma pequena lista com as principais produções acadêmicas, incluindo artigos, relatos de experiência e apresentações em eventos.
+Lista com as principais produções acadêmicas, incluindo artigos, relatos de experiência e apresentações em eventos.
 
 # Artigos completos
 
