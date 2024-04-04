@@ -1,6 +1,6 @@
 ---
 icon: fas fa-feather
-order: 5
+order: 3
 title:  "ARTIGOS"
 toc: true
 ---
