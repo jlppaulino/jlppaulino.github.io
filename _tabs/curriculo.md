@@ -5,7 +5,7 @@ title:  "CURRÍCULO"
 toc: true
 ---
 
-Resumo do currículo acadêmico com com detalhes sobre os principais projetos de pesquisa, extensão, monitorias e cargos ocupados durante a carreira. Para mais detalhes acadêmicos, o perfil na [Plataforma Lattes](https://lattes.cnpq.br/0734105841718449){:target="_blank"} pode ser acessado.
+Resumo do currículo acadêmico com detalhes sobre os principais projetos de pesquisa, extensão, monitorias e cargos ocupados durante a carreira. Para mais detalhes acadêmicos, o perfil na [Plataforma Lattes](https://lattes.cnpq.br/0734105841718449){:target="_blank"} pode ser acessado.
 
 # Sobre mim
 
