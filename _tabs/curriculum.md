@@ -1,6 +1,6 @@
 ---
 icon: fas fa-file
-order: 3
+order: 4
 title:  "CURRICULUM"
 toc: true
 ---
