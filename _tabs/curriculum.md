@@ -1,6 +1,6 @@
 ---
 icon: fas fa-file
-order: 4
+order: 3
 title:  "CURRICULUM"
 toc: true
 ---
@@ -30,8 +30,6 @@ Gosto de me definir como um amante da pesquisa científica e das possibilidades 
 - Idealizador e desenvolvedor do UERNCalc (2022)
 - Pesquisador do PIBIC da UERN/CNPq (2022-2023)
 - Presidente/Tesoureiro da LAMNVI (2023-2024)
-- Pesquisador do PIBIC da UERN (2023-2024)
-- Extensionista do NEADD (2023-2024)
 
 # Projetos
 
@@ -81,31 +79,6 @@ O [UERNCalc](https://joalllucas.github.io/uerncalc){:target="_blank"} é um prog
 _PIBIC UERN/CNPQ | 2022 A 2023_
 
 O projeto foi desenvolvido entre 2022 e 2023 com o objetivo de traçar o perfil epidemiológico dos pacientes portadores de neoplasias do sistema urinário assistindo pela Liga Mossoroense de Estudos e Combate ao Câncer (LMECC) haja vista o enquadramento da região oeste do estado do Rio Grande do Norte com os fatores de riscos relacionados ao desenvolvimento de câncer de pênis. Por isso, ele foi desenvolvido em duas frentes: (1) coleta de dados dos prontuários da LMECC para desenvolvimento de análises estatísticas e demográficas; (2) e coleta de dados dos sistemas públicos de saúde do governo para traçar o perfil das regiões Norte e Nordeste.
-
-## Portal da LAMVNI
-_PROJETO DE TECNOLOGIA DA INFORMAÇÃO | 2023_
-
-O portal da [LAMNVI](https://lamnviuern.wordpress.com/){:target="_blank"} foi idealizado para que as ações da liga acadêmica pudessem ter uma melhor apresentação para o público, facilitando o acesso a documentos importantes, equipe e contato da liga com a comunidade acadêmica. Além disso, espera-se que o site sirva para que os ligantes publiquem artigos sobre temas relacionados à oftalmologia.
-
-## Portal do BioMol
-_PROJETO DE TECNOLOGIA DA INFORMAÇÃO | 2024_
-
-O portal do [BioMol](https://biomoluern.com.br/){:target="_blank"} tem um objetivo muito parecido com o da LAMNVI mencionado anteriormente, mas, para além disso, ele conta com um sistema de agendamento no qual a comunidade acadêmica pode solicitar o uso dos equipamentos do laboratório por meio da plataforma online.
-
-## Aspectos clínicos, ultrassonográficos e histopatológicos das lesões de pele dos pacientes atendidos pelo ambulatório da FACS/UERN
-_PIBIC UERN/CNPQ | 2023 A 2024_
-
-O projeto foi idealizado em 2023 e teve início em 2024 e busca levar a ultrassonografia dermatológica para o interior do Rio Grande do Norte, sendo essa uma tecnologia promissora para o diagnóstico precoce de diversas patologias cancerosas, inflamatórias e infectocontagiosas. Esse diagnóstico precoce permite que o tratamento seja iniciado mais cedo e o paciente possua uma maior possibilidade de recuperação. Com isso, a pesquisa busca identificar o perfil dos pacientes atendidos na FACS/UERN, classificando as suas lesões tanto pelo aspecto dermatológico quanto ultrassonográfico e histopatológico.
-
-## Núcleo de Estudos Avançados em Dermatologia Diagnóstica (NEADD)
-_PROJETO DE EXTENSÃO | 2023 A 2024_
-
-O NEADD é o núcleo de extensão associado à pesquisa anteriormente mencionada e também foi idealizado em 2023 com início efetivo em 2024. A ideia de ter uma vertente de extensão dentro do projeto de pesquisa se dá ao passo que entende-se que é necessário compartilhar os conhecimentos científicos com a população, fornecendo atendimento médico especializado a ela em conjunto com ações de educação em saúde na FACS/UERN e em eventos da pró-reitoria de extensão da universidade.
-
-## O ensino da oftalmoscopia direta na graduação médica: importância no diagnóstico de doenças sistêmicas
-_PROJETO DE ENSINO | 2024 A 2025_
-
-O ensino da oftalmoscopia direta na graduação médica é essencial para os futuros médicos, pois os capacita a diagnosticar doenças sistêmicas como diabetes, hipertensão e aterosclerose. Desse modo, o projeto possui pretensão de auxiliar na capacitação dos médicos das UBS de Mossoró para realização desse exame na população em geral. Além disso, em parceria com o projeto de extensão Projeto Olhar Infantil e a LAMNVI, é esperado o ensino do Teste do Reflexo Vermelho (TRV) em conjunto para esses médicos.
 
 # Educação
 

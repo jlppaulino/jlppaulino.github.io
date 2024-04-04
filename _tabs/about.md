@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 3
+order: 2
 title:  "SOBRE"
 ---
 
@@ -23,6 +23,6 @@ Ainda na onda da fotografia, mas mais voltado para imagem em si, também gosto d
 
 ![](/assets/img/sobreimagem4.svg)
 
-Além do que eu já citei, outros grandes amores meus são os jogos e a música. Por causa disso, vocês podem sempre me ver jogando alguma coisa no [Steam](https://steamcommunity.com/id/joalllucas/){:target="_blank"} ou ouvindo excelentes músicas no [Spotify](https://open.spotify.com/user/joalllucas){:target="_blank"} e no [Stats.fm](https://stats.fm/joalllucas){:target="_blank"}.
-Se precisar de alguma coisa ou quiser falar comigo, pode se sentir à vontade para entrar em contato pelas redes sociais. Os links para elas estão ao lado também. 😉
+Além do que eu já citei, outros grandes amores meus são os jogos e a música. Por causa disso, vocês podem sempre me ver jogando alguma coisa no [Steam](https://steamcommunity.com/id/joalllucas/){:target="_blank"} ou ouvindo excelentes músicas no [Spotify](https://open.spotify.com/user/joalllucas){:target="_blank"}.
+Se precisar de alguma coisa ou quiser bater um papo comigo, pode se sentir à vontade para entrar em contato pelas redes sociais. Os links para elas estão ao lado também. 😉
 
