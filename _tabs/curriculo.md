@@ -20,11 +20,12 @@ Gosto de me definir como um amante da pesquisa científica e das possibilidades 
 - Pesquisador do PIBIC do IFRN (2016-2017)
 - Idealizador e desenvolvedor do SAGA (2017)
 - Monitor de redação no SCRIBO: Curso de Redação (2019-2023)
-- Acadêmico de Medicina na UERN (2020-2025)
+- Acadêmico de Medicina na UERN (2020-2026)
 - Diretor do NUPEC da IFMSA Brazil UERN (2020-2021)
 - Extensionista do GISI (2021-2022)
 - Monitor de Genética Humana da FACS (2021.1, 2021.2 e 2022.1)
 - Pesquisador do PIBIC da UERN (2021-2022)
+- Membro do Grupo de Pesquisa em Biologia e Epidemiologia de Doenças Infecciosas e Genéticas (2021-2024)
 - Diretor de Pesquisa da LAMNVI (2021-2023)
 - Extensionista do Projeto Olhar Infantil (2021-2024)
 - Idealizador e desenvolvedor do UERNCalc (2022)
@@ -77,7 +78,7 @@ Além disso, a presença de um oftalmologista, o coordenador do projeto Prof. Dr
 ## UERNCalc
 _PROJETO PESSOAL | 2022_
 
-O [UERNCalc](https://joalllucas.github.io/uerncalc){:target="_blank"} é um programa desenvolvido para ajudar os estudantes da UERN a calcular suas médias acadêmicas. Com ele, é possível verificar qual é a pontuação necessária para se passar por média, bem como a meta para a avaliação final dos alunos que ficaram de recuperação.
+O [UERNCalc](https://jlppaulino.github.io/uerncalc){:target="_blank"} é um programa desenvolvido para ajudar os estudantes da UERN a calcular suas médias acadêmicas. Com ele, é possível verificar qual é a pontuação necessária para se passar por média, bem como a meta para a avaliação final dos alunos que ficaram de recuperação.
 
 ## Aspectos clínico-epidemiológicos dos tumores do sistema urinário em pacientes atendidos pela Liga Mossoroense de Estudos e Combate ao Câncer (LMECC)
 _PIBIC UERN/CNPQ | 2022 A 2023_
@@ -111,6 +112,15 @@ O ensino da oftalmoscopia direta na graduação médica é essencial para os fut
 
 <hr>
 
+# Grupos de pesquisa
+
+## Grupo de Pesquisa em Biologia e Epidemiologia de Doenças Infecciosas e Genéticas
+_2021 A 2024_
+
+O grupo de pesquisa Biologia e Epidemiologia das Doenças Infecciosas e Genéticas se enquadra como um grupo pioneiro na organização das atividades de pesquisa aplicadas a área das Ciências da Saúde da UERN. Ele é formado por docentes-pesquisadores do curso de Medicina e suas ações convergem para a investigação das principais doenças emergentes da região e o estudo dos seus determinantes. Atualmente, seus docentes pesquisadores desenvolvem projetos e atuam na formação de recursos humanos vinculados aos Programas de Mestrado em Saúde e Sociedade (PPGSS) e ao Programa Multicêntrico de Bioquímica e Biologia Molecular (PMBqBm). O grupo também mantém estreita parceria com instituições de ensino e pesquisa da região, como UFRN, UFERSA, Centro de Oncologia e Hematologia de Mossoró e prefeitura municipal.
+
+<hr>
+
 # Educação
 
 ## Curso Técnico em Informática
@@ -118,16 +128,29 @@ _INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO RIO GRANDE DO NORTE (
 
 O Curso de Informática do IFRN, embora possua uma metodologia ampla nos conceitos computacionais, abordando tanto manutenção, redes e sistemas operacionais, possui o foco principal no desenvolvimento de software. Sendo assim, o aluno formado por esse curso tem como principal habilidade o desenvolvimento de programas e páginas web, mas sem deixar de possuir conhecimentos sobre outras áreas.
 
-O IFRN de Mossoró conta com o Grêmio Estudantil Valdemar dos Pássaros (GEVP), sendo ele uma ferramenta crucial para que o estudante tenha contato direto com a vida política e possa exercitar os seus deveres enquanto cidadão político.
-
 ## Curso Superior em Medicina
-_UNIVERSIDADE DO ESTADO DO RIO GRANDE DO NORTE (UERN) | 2020 A 2025_
+_UNIVERSIDADE DO ESTADO DO RIO GRANDE DO NORTE (UERN) | 2020 A 2026_
 
 O Curso de Medicina da UERN está sediado na cidade de Mossoró, no interior do Rio Grande do Norte. Com isso, ele é de grande importância para a promoção de saúde nessa região do estado, haja vista que está localizado na sua segunda maior cidade e tem as atividades focadas no Hospital Regional Dr. Tarcísio de Vasconcelos Maia (HRTM) e no ambulatório da FACS, que contemplam os municípios circunvizinhos.
 
 <hr>
 
 # Cargos
+
+## Monitor de Comunicação Social
+_INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO RIO GRANDE DO NORTE (IFRN) | 2015 A 2016_
+
+O monitor de Comunicação social do IFRN atua junto à Coordenação de Comunicação Social e Eventos (COCSEV) da instituição, a auxiliando na organização dos seus eventos e sendo responsável por cuidar das suas mídias digitais, principalmente o Facebook e o Instagram. Sendo assim, também cabe ao monitor a elaboração de artes digitais e design de cartazes para comunicação interna com os alunos, além do registro fotográfico dos eventos.
+
+## Secretário de Comunicação
+_GRÊMIO ESTUDANTIL VALDEMAR DOS PÁSSAROS (GEVP) | 2016 A 2017_
+
+O Grêmio Estudantil Valdemar dos Pássaros (GEVP) é uma instituição crucial para que o estudante tenha contato direto com a vida política e possa exercitar os seus deveres enquanto cidadão no IFRN de Mossoró. Sendo assim, cabe ao seu secretário de comunicação elaborar estratégias para levar as pautas discutidas internamente nas reuniões para toda a comunidade acadêmica do IFRN, além de dever elaborar artes de divulgação para as redes sociais do grêmio, como Facebook e Instagram.
+
+## Monitor de redação
+_SCRIBO CURSO DE REDAÇÃO | 2019 A 2023_
+
+O SCRIBO é um curso de redação com sede em Mossoró/RN, mas com abrangência nacional devido ao seu eixo de correção online de redações. Ao monitor de redação, cabe a orientação aos outros estudantes, incluindo a correção de suas redações com a aplicação da nota de acordo com a banca corretora do ENEM.
 
 ## Diretor do Núcleo de Pesquisa Científica
 _IFMSA BRAZIL UERN | 2020 A 2021_

@@ -1,7 +1,7 @@
 ---
 icon: fas fa-laptop
 order: 4
-title:  "PROJETOS"
+title:  "INFORMÁTICA"
 
 ---
 
@@ -32,7 +32,7 @@ Eu vim conhecer as páginas do GitHub muito tempo depois, acho que por volta de 
 # UERNCalc
 `HTML` `CSS` `JavaScript`
 
-De todos os projetos que eu já fiz, acho que o [UERNCalc](https://joalllucas.github.io/uerncalc){:target="_blank"} é o mais útil, embora ele seja extremamente simples. Todo o código dele foi feito apenas com HTML, CSS e JavaScript, mas o que define a importância de um código não é a sua complexidade, mas a sua utilidade. Por causa disso, eu afirmo que é o mais útil, porque muitos estudantes da UERN usam ele para calcular as suas notas com base no sistema da escola. A primeira versão dele foi lançada em 2022.
+De todos os projetos que eu já fiz, acho que o [UERNCalc](https://jlppaulino.github.io/uerncalc){:target="_blank"} é o mais útil, embora ele seja extremamente simples. Todo o código dele foi feito apenas com HTML, CSS e JavaScript, mas o que define a importância de um código não é a sua complexidade, mas a sua utilidade. Por causa disso, eu afirmo que é o mais útil, porque muitos estudantes da UERN usam ele para calcular as suas notas com base no sistema da escola. A primeira versão dele foi lançada em 2022.
 
 # Portal da LAMNVI
 `WordPress`
