@@ -18,7 +18,7 @@ timezone: America/Fortaleza
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Joao Lucas # the main title
+title: Joao Lucas de Paiva Paulino # the main title
 
 tagline: Se a vida fosse justa, não se chamaria "vida". # it will display as the sub-title
 
@@ -37,7 +37,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Joao Lucas
+  name: Joao Lucas de Paiva Paulino
   email: paivapaulinojl@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
