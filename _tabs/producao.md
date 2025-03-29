@@ -9,6 +9,8 @@ Lista com as principais produções acadêmicas, incluindo artigos, relatos de e
 
 # Artigos completos
 
+- Compreensão da recorrência da gravidez na adolescência: abordagem qualitativa com o Arco de Maguerez. 2025. [Revista Psicologia, Diversidade e Saúde](https://doi.org/10.17267/2317-3394rpds.2025.e5847){:target="_blank"}
+
 - A utilização do Arco de Maguerez como ferramenta metodológica em educação na saúde: revisão de escopo. 2024. [Revista Docência do Ensino Superior](https://doi.org/10.35699/2237-5864.2024.46778){:target="_blank"}
 
 - Abordagem para crianças de escola de ensino fundamental sobre os impactos da luz azul na saúde ocular: um relato de experiência. 2024. [Revista Extendere](https://periodicos.apps.uern.br/index.php/EXT/article/view/5788){:target="_blank"}
@@ -27,7 +29,7 @@ Lista com as principais produções acadêmicas, incluindo artigos, relatos de e
 
 - A eficácia da manobra de valsalva modificada para reversão das taquicardias paroxísticas supraventriculares: uma revisão da literatura. 2023. [Anais do XXI Congresso Norteriograndense de Cardiologia](https://abccardiol.org/wp-content/uploads/2023/06/Anais_Norteriograndense_2023.x47225.pdf){:target="_blank"}
 
-- Impacto da pandemia da COVID-19 no comportamento das emergências oftalmológicas. 2022. [Anais da III Jornada Nacional de urgência e emergência LAUEC](https://www.even3.com.br/anais/iiijornada2022/){:target="_blank"}
+- Perfil dos procedimentos cirúrgicos de urgência realizados durante a pandemia no município de Mossoró/RN. 2022. [Anais da III Jornada Nacional de urgência e emergência LAUEC](https://www.even3.com.br/anais/iiijornada2022/523611-perfil-dos-procedimentos-cirurgicos-de-urgencia-realizados-durante-a-pandemia-no-municipio-de-mossororn/){:target="_blank"}
 
 - SAMUCA: uma estratégia lúdica no ensino dos primeiros-socorros para o público em geral. 2022. [Anais da III Jornada Nacional de urgência e emergência LAUEC](https://www.even3.com.br/anais/iiijornada2022/523612-samuca--uma-estrategia-ludica-no-ensino-dos-primeiros-socorros-para-o-publico-em-geral/){:target="_blank"}
 
