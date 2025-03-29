@@ -61,6 +61,12 @@ jobs:
         with:
           path: "_site${{ steps.pages.outputs.base_path }}"
 
+
+      - name: Download site artifact
+      uses: actions/download-pages-artifact@v1
+      with:
+        path: "_site${{ steps.pages.outputs.base_path }}"
+
   deploy:
     environment:
       name: github-pages
