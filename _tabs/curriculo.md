@@ -43,6 +43,11 @@ _PRIMEIRO LUGAR NA CATEGORIA CIÊNCIAS DA VIDA | 2024_
 
 O Troféu Luiz di Souza é um prêmio promovido pela Pró-Reitoria de Pesquisa e Pós-Graduação (PROPEG) da UERN com o objetivo de reconhecer os melhores projetos de pesquisa PIBIC da universidade. Na ocasião, o projeto de pesquisa "Aspectos clínico-epidemiológicos dos tumores do sistema urinário em pacientes atendidos pela Liga Mossoroense de Estudos e Combate ao Câncer (LMECC)" desenvolvido por mim foi o vencedor na categoria Ciências da Vida. Confira mais [aqui](/posts/5/)
 
+## Prêmio Destaque na Iniciação Científica e Tecnológica do CNPq
+_INDICADO | 2024_
+
+O prêmio é organizado pelo CNPq com abrangência nacional e premia, anualmente, o melhores bolsistas de iniciação científica do país. Fui indicado na categoria Ciências da Vida em 2024 com o projeto de pesquisa "Aspectos clínico-epidemiológicos dos tumores do sistema urinário em pacientes atendidos pela Liga Mossoroense de Estudos e Combate ao Câncer (LMECC)". Confira mais [aqui](/posts/55/).
+
 ##  Concurso fotográfico "Viva a Extensão"
 _SEGUNDO LUGAR NA CATERGORIA DISCENTE | 2023_
 
@@ -53,7 +58,7 @@ O concurso fotográfico “Viva a Extensão” foi promovido pela Pró-Reitoria 
 # Projetos de pesquisa, ensino e extensão
 
 ## NEADD - Ensino do diagnóstico dermatológico pela lesão na graduação de Medicina: como fazer a dermatoscopia e quando solicitar a ultrassonografia dermatológica?
-_PROJETO DE ENSINO | 2025_
+_PROJETO DE ENSINO | DESDE 2025_
 
 Completando a tríade ensino-pesquisa-extensão, o NEADD tem mais um projeto vinculado ao seu programa. Esse projeto tem como objetivo a elaboração de um material didático de apoio para compartilhamento com toda a comunidade acadêmica, ajudando a sintetizar os conhecimentos sobre ultrassonografia dermatológica e lesões de pele, beneficiando tanto a UERN quanto os profissionais de saúde. Para os pacientes, isso resultará em diagnósticos mais rápidos e precisos, melhorando o manejo e tratamento das condições dermatológicas e, consequentemente, sua qualidade de vida.
 

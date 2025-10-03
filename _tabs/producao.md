@@ -21,6 +21,20 @@ Lista com as principais produções acadêmicas, incluindo artigos, relatos de e
 
 # Resumos em anais de eventos
 
+- O Impacto da Ultrassonografia Dermatológica no Manejo de Lesões Inflamatórias e Sólidas em Pacientes Ambulatoriais Atendidos Pelo SUS. 2025. [XII Semana de Ciência, Tecnologia e Inovação da Universidade do Estado do Rio Grande do Norte](https://portal.uern.br/propeg/pibic-pibiti-e-pibic-em/semana-de-ciencia-tecnologia-e-inovacao-scti/){:target="_blank"}
+
+- Entre Genes e Experiências: Avaliação Discente como Instrumento de Aprimoramento na Educação Médica. 2025. [Anais do XXXIV Congresso Brasileiro de Genética Médica](https://www.sbgm.org.br/anais-do-congresso.aspx){:target="_blank"}
+
+- Divulgação da Ultrassonografia Dermatológica como Ação Extensionista na Universidade Pública: Um Relato de Experiência. 2025. [XI Salão de Extensão da Universidade do Estado do Rio Grande do Norte](https://portal.uern.br/proex/salao-de-extensao/){:target="_blank"}
+
+- Diagnóstico Avançado em Dermatologia como Estratégia Pedagógica no Curso de Medicina no Interior do Rio Grande do Norte. 2025. [Anais do 63º Congresso Brasileiro de Educação Médica](https://website.abem-educmed.org.br/anais-do-cobem/){:target="_blank"}
+
+- Ação educativa em Saúde da Pele com Uso de Ultrassonografia Dermatológica. 2025. [Anais do 63º Congresso Brasileiro de Educação Médica](https://website.abem-educmed.org.br/anais-do-cobem/){:target="_blank"}
+
+- Manejo da Vertigem Periférica Aguda na Emergência: Uma Revisão de Literatura. 2025. [Anais do 4º Congresso Brasileiro de Trauma e Medicina de Emergência](https://www.even3.com.br/anais/4traumaemergencia/1100501-manejo-da-vertigem-periferica-aguda-na-emergencia--uma-revisao-de-literatura/){:target="_blank"}
+
+- Incidência do câncer de pênis nas regiões Norte e Nordeste entre 2006 e 2022: um estudo ecológico. 2023. [XI Semana de Ciência, Tecnologia e Inovação da Universidade do Estado do Rio Grande do Norte](https://portal.uern.br/propeg/pibic-pibiti-e-pibic-em/semana-de-ciencia-tecnologia-e-inovacao-scti/){:target="_blank"}
+
 - Rodas de conversa como espaços de educação em saúde para pessoas que vivem com Doença de Chagas. 2023. [Anais do 25º Congresso Brasileiro dos Conselhos de Enfermagem](https://inscricoes-cbcenf.cofen.gov.br/anais/21/show){:target="_blank"}
 
 - O impacto social da realização do teste do olhinho no ambulatório de oftalmologia: um relato de experiência da extensão universitária. 2023. [Anais do 61º Congresso Brasileiro de Educação Médica](https://website.abem-educmed.org.br/wp-content/uploads/2024/01/Anais-61-COBEM-1.pdf){:target="_blank"}
@@ -28,6 +42,8 @@ Lista com as principais produções acadêmicas, incluindo artigos, relatos de e
 - Efeitos cardiovasculares da síndrome pós-COVID-19: uma revisão integrativa. 2023. [Anais do XXI Congresso Norteriograndense de Cardiologia](https://abccardiol.org/wp-content/uploads/2023/06/Anais_Norteriograndense_2023.x47225.pdf){:target="_blank"}
 
 - A eficácia da manobra de valsalva modificada para reversão das taquicardias paroxísticas supraventriculares: uma revisão da literatura. 2023. [Anais do XXI Congresso Norteriograndense de Cardiologia](https://abccardiol.org/wp-content/uploads/2023/06/Anais_Norteriograndense_2023.x47225.pdf){:target="_blank"}
+
+- Ensino remoto emergencial no curso de Medicina da UERN frente à pandemia de COVID-19: comparação entre aspectos locais e globais. 2022. [X Semana de Ciência, Tecnologia e Inovação da Universidade do Estado do Rio Grande do Norte](https://portal.uern.br/propeg/pibic-pibiti-e-pibic-em/semana-de-ciencia-tecnologia-e-inovacao-scti/){:target="_blank"}
 
 - Perfil dos procedimentos cirúrgicos de urgência realizados durante a pandemia no município de Mossoró/RN. 2022. [Anais da III Jornada Nacional de urgência e emergência LAUEC](https://www.even3.com.br/anais/iiijornada2022/523611-perfil-dos-procedimentos-cirurgicos-de-urgencia-realizados-durante-a-pandemia-no-municipio-de-mossororn/){:target="_blank"}
 
@@ -41,6 +57,10 @@ Lista com as principais produções acadêmicas, incluindo artigos, relatos de e
 
 # Apresentações orais em eventos
 
+- Avaliação da Recidivado do Câncer de Pênis em Pacientes Atendidos por Hospital Oncológico do Interior do Rio Grande do Norte entre 2006 e 2020. 2025. [IV Congresso Multidisciplinar da Liga de Mossoró](https://static.even3.com/geral/TEWPC36.13f59fefe08544f69f4d.PDF){:target="_blank"}
+
+- NEADD: O pioneirismo na ultrassonografia dermatológica no oeste potiguar. 2025. [XI Salão de Extensão da Universidade do Estado do Rio Grande do Norte](https://www.youtube.com/watch?v=oexHidCdGao){:target="_blank"}
+
 - Incidência do câncer de pênis nas regiões Norte e Nordeste entre 2006 e 2022: um estudo ecológico. 2023. [XI Semana de Ciência, Tecnologia e Inovação da Universidade do Estado do Rio Grande do Norte](https://portal.uern.br/propeg/pibic-pibiti-e-pibic-em/semana-de-ciencia-tecnologia-e-inovacao-scti/){:target="_blank"}
 
 - Ensino remoto emergencial no curso de Medicina da UERN frente à pandemia de COVID-19: comparação entre aspectos locais e globais. 2022. [X Semana de Ciência, Tecnologia e Inovação da Universidade do Estado do Rio Grande do Norte](https://portal.uern.br/propeg/pibic-pibiti-e-pibic-em/semana-de-ciencia-tecnologia-e-inovacao-scti/){:target="_blank"}
@@ -52,6 +72,8 @@ Lista com as principais produções acadêmicas, incluindo artigos, relatos de e
 - COVID-19 and the importance of scientific credibility in decreasing the number of cases. 2021. [The European Sting](https://europeansting.com/2021/05/25/covid-19-and-the-importance-of-scientific-credibility-in-decreasing-the-number-of-cases/){:target="_blank"}
 
 # Participações em eventos
+
+- NEADD apresenta cuidados essenciais com a pele e prevenção do câncer de pele. 2025. <u>UERN no Parque</u>
 
 - Avaliador de trabalhos. 2024. <u>[III Feira Kids da UFERSA]</u>
 
