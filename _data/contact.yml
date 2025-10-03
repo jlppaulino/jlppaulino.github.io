@@ -1,7 +1,8 @@
 #  The contact options.
 
-- type: github
-  icon: "fab fa-github"
+- type: externallinks
+  icon: "fas fa-language"
+  url:  'https://jlppaulino-github-io.translate.goog/?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp'
 
 - type: externallinks
   icon: "fas fa-link"
@@ -11,9 +12,12 @@
   icon: "fas fa-calculator"
   url:  'https://jlppaulino.github.io/uerncalc'
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: false
+- type: github
+  icon: "fab fa-github"
+
+# - type: rss
+#   icon: "fas fa-rss"
+#   noblank: false
 
 # Uncomment and complete the url below to enable more contact options
 #
