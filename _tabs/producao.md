@@ -57,6 +57,8 @@ Lista com as principais produções acadêmicas, incluindo artigos, relatos de e
 
 # Apresentações orais em eventos
 
+- O Impacto da Ultrassonografia Dermatológica no Manejo de Lesões Inflamatórias e Sólidas em Pacientes Ambulatoriais Atendidos Pelo SUS. 2025. [XIII Semana de Ciência, Tecnologia e Inovação da Universidade do Estado do Rio Grande do Norte](https://portal.uern.br/propeg/pibic-pibiti-e-pibic-em/semana-de-ciencia-tecnologia-e-inovacao-scti/){:target="_blank"}
+
 - Avaliação da Recidivado do Câncer de Pênis em Pacientes Atendidos por Hospital Oncológico do Interior do Rio Grande do Norte entre 2006 e 2020. 2025. [IV Congresso Multidisciplinar da Liga de Mossoró](https://static.even3.com/geral/TEWPC36.13f59fefe08544f69f4d.PDF){:target="_blank"}
 
 - NEADD: O pioneirismo na ultrassonografia dermatológica no oeste potiguar. 2025. [XI Salão de Extensão da Universidade do Estado do Rio Grande do Norte](https://www.youtube.com/watch?v=oexHidCdGao){:target="_blank"}
@@ -72,6 +74,8 @@ Lista com as principais produções acadêmicas, incluindo artigos, relatos de e
 - COVID-19 and the importance of scientific credibility in decreasing the number of cases. 2021. [The European Sting](https://europeansting.com/2021/05/25/covid-19-and-the-importance-of-scientific-credibility-in-decreasing-the-number-of-cases/){:target="_blank"}
 
 # Participações em eventos
+
+- NEADD apresenta informações essenciais sobre dermatites. 2026. <u>UERN no Parque</u>
 
 - NEADD apresenta cuidados essenciais com a pele e prevenção do câncer de pele. 2025. <u>UERN no Parque</u>
 

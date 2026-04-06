@@ -31,8 +31,8 @@ url: "https://jlppaulino.github.io"
 github:
   username: jlppaulino # change to your github username
 
-twitter:
-  username: jlppaulino # change to your twitter username
+# twitter:
+#   username: jlppaulino # change to your twitter username
 
 social:
   # Change to your full name.
@@ -45,7 +45,7 @@ social:
     - https://github.com/jlppaulino # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/jlppaulino/
 
 google_site_verification: # fill in to your verification string
 
