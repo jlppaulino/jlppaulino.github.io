@@ -168,6 +168,8 @@ O Curso de Informática do IFRN, embora possua uma metodologia ampla nos conceit
 ## Médico do Programa Mais Médicos
 _MINISTÉRIO DA SAÚDE | DESDE 2026_
 
+O Programa Mais Médicos permite um acompanhamento longitudinal do médico na Atenção Primária à Saúde (APS) no município de Passagem/RN, permitindo um vínculo entre a população e o profissional de saúde. Desse modo, o trabalho conta com a condução de consultas programáticas, a realização de visitas domiciliares, a adesão a programas longitudinais da APS (como pré-natal, CeD e HIPERDIA) e atendimento multiprofissional.
+
 ## Discente fundador coordenador
 _NÚCLEO DE ESTUDOS AVANÇADOS EM DERMATOLOGIA DIAGNÓSTICA (NEADD) | 2023 A 2026_
 
