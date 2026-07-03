@@ -13,8 +13,9 @@ Gosto de me definir como um amante da pesquisa científica e das possibilidades 
 
 # Resumo
 
-- Discente-coordenador do NEADD (2023-atual)
-- Pesquisador do PIBIC da UERN (2023-atual)
+- Médico do Programa Mais Médicos (2026-atual)
+- Discente-coordenador do NEADD (2023-2026)
+- Pesquisador do PIBIC da UERN (2023-2026)
 - Presidente/Tesoureiro da LAMNVI (2023-2024)
 - Pesquisador do PIBIC da UERN/CNPq (2022-2023)
 - Idealizador e desenvolvedor do UERNCalc (2022)
@@ -25,7 +26,7 @@ Gosto de me definir como um amante da pesquisa científica e das possibilidades 
 - Monitor de Genética Humana da FACS (2021.1, 2021.2 e 2022.1)
 - Extensionista do GISI (2021-2022)
 - Diretor do NUPEC da IFMSA Brazil UERN (2020-2021)
-- Acadêmico de Medicina na UERN (2020-atual)
+- Acadêmico de Medicina na UERN (2020-2026)
 - Monitor de redação no SCRIBO: Curso de Redação (2019-2023)
 - Idealizador e desenvolvedor do SAGA (2017)
 - Pesquisador do PIBIC do IFRN (2016-2017)
@@ -58,7 +59,7 @@ O concurso fotográfico “Viva a Extensão” foi promovido pela Pró-Reitoria 
 # Projetos de pesquisa, ensino e extensão
 
 ## NEADD - Ensino do diagnóstico dermatológico pela lesão na graduação de Medicina: como fazer a dermatoscopia e quando solicitar a ultrassonografia dermatológica?
-_PROJETO DE ENSINO | DESDE 2025_
+_PROJETO DE ENSINO |  2025 A 2026_
 
 Completando a tríade ensino-pesquisa-extensão, o NEADD tem mais um projeto vinculado ao seu programa. Esse projeto tem como objetivo a elaboração de um material didático de apoio para compartilhamento com toda a comunidade acadêmica, ajudando a sintetizar os conhecimentos sobre ultrassonografia dermatológica e lesões de pele, beneficiando tanto a UERN quanto os profissionais de saúde. Para os pacientes, isso resultará em diagnósticos mais rápidos e precisos, melhorando o manejo e tratamento das condições dermatológicas e, consequentemente, sua qualidade de vida.
 
@@ -69,12 +70,12 @@ _PROJETO DE ENSINO | 2024_
 O ensino da oftalmoscopia direta na graduação médica é essencial para os futuros médicos, pois os capacita a diagnosticar doenças sistêmicas como diabetes, hipertensão e aterosclerose. Desse modo, o projeto possui pretensão de auxiliar na capacitação dos médicos das UBS de Mossoró para realização desse exame na população em geral. Além disso, em parceria com o projeto de extensão Projeto Olhar Infantil e a LAMNVI, é esperado o ensino do Teste do Reflexo Vermelho (TRV) em conjunto para esses médicos.
 
 ## Núcleo de Estudos Avançados em Dermatologia Diagnóstica (NEADD)
-_PROJETO DE EXTENSÃO | DESDE 2024_
+_PROJETO DE EXTENSÃO | 2024 A 2026_
 
 O NEADD é o núcleo de extensão associado à pesquisa anteriormente mencionada e também foi idealizado em 2023 com início efetivo em 2024. A ideia de ter uma vertente de extensão dentro do projeto de pesquisa se dá ao passo que entende-se que é necessário compartilhar os conhecimentos científicos com a população, fornecendo atendimento médico especializado a ela em conjunto com ações de educação em saúde na FACS/UERN e em eventos da pró-reitoria de extensão da universidade.
 
 ## NEADD | Aspectos clínicos, ultrassonográficos e histopatológicos das lesões de pele dos pacientes atendidos pelo ambulatório da FACS/UERN
-_PIBIC UERN | DESDE 2023_
+_PIBIC UERN | 2023 A 2026_
 
 O projeto foi idealizado em 2023 e teve início em 2024 e busca levar a ultrassonografia dermatológica para o interior do Rio Grande do Norte, sendo essa uma tecnologia promissora para o diagnóstico precoce de diversas patologias cancerosas, inflamatórias e infectocontagiosas. Esse diagnóstico precoce permite que o tratamento seja iniciado mais cedo e o paciente possua uma maior possibilidade de recuperação. Com isso, a pesquisa busca identificar o perfil dos pacientes atendidos na FACS/UERN, classificando as suas lesões tanto pelo aspecto dermatológico quanto ultrassonográfico e histopatológico.
 
@@ -151,7 +152,7 @@ O grupo de pesquisa Biologia e Epidemiologia das Doenças Infecciosas e Genétic
 # Educação
 
 ## Curso Superior em Medicina
-_UNIVERSIDADE DO ESTADO DO RIO GRANDE DO NORTE (UERN) | DESDE 2020_
+_UNIVERSIDADE DO ESTADO DO RIO GRANDE DO NORTE (UERN) | 2020 A 2026_
 
 O Curso de Medicina da UERN está sediado na cidade de Mossoró, no interior do Rio Grande do Norte. Com isso, ele é de grande importância para a promoção de saúde nessa região do estado, haja vista que está localizado na sua segunda maior cidade e tem as atividades focadas no Hospital Regional Dr. Tarcísio de Vasconcelos Maia (HRTM) e no ambulatório da FACS, que contemplam os municípios circunvizinhos.
 
@@ -164,8 +165,11 @@ O Curso de Informática do IFRN, embora possua uma metodologia ampla nos conceit
 
 # Cargos
 
+## Médico do Programa Mais Médicos
+_MINISTÉRIO DA SAÚDE | DESDE 2026_
+
 ## Discente fundador coordenador
-_NÚCLEO DE ESTUDOS AVANÇADOS EM DERMATOLOGIA DIAGNÓSTICA (NEADD) | DESDE 2023_
+_NÚCLEO DE ESTUDOS AVANÇADOS EM DERMATOLOGIA DIAGNÓSTICA (NEADD) | 2023 A 2026_
 
 Ainda em 2023, eu tive a honra de ser indicado para ser o discente que iria ajudar a tirar o NEADD do papel. Naquela época, o núcleo era apenas uma ideia e eu tenho muito orgulho em ser discente-fundador-coordenador do projeto, porque foram muitas horas empenhadas em transformar esse projeto em ensino, pesquisa e extensão em 2024.
 
